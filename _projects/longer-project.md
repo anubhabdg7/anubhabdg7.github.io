@@ -6,14 +6,14 @@ description: |
   This project has a long title, but no other content.
   Setting the `no-link` property means that there's no link.
 
-people:
-  - storm
-  - profx
-  - grad-b
-  - scott
-  - wolverine
+# people:
+#   - storm
+#   - profx
+#   - grad-b
+#   - scott
+#   - wolverine
 
 layout: project
-no-link: true
+no-link: false
 last-updated: 2016-11-11
 ---
