@@ -6,4 +6,4 @@ This is an example of an additional page you could add to the site (and its navi
 
 If you like this template, find our group's other code here:
 
- * [uwsampa on GitHub](https://github.com/anubhabdg7/)
+ * [anubhabdg7 on GitHub](https://github.com/anubhabdg7/)
